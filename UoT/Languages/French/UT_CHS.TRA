@@ -1,0 +1,253 @@
+@9001 = ~[Uu]tilisable[ %tab%]+[Pp]ar[ %tab%]*:~
+@9002 = ~\([Nn]on[ %tab%]+\|[Ii]n\)[Uu]tilisable[ %tab%]+[Pp]ar[ %tab%]*:~
+
+//------------------------------- Centre de commande -------------------------------//
+
+@99999 = ~Centre de commande~
+
+//------------------------------- Téléportation -------------------------------//
+
+@99991 = ~Anneau étrange.~
+@99992 = ~Anneau de celluloïd~
+@99993 = ~Lorsque vous jetez un discret coup d’œil sur cet anneau d'apparence banale, vous avez l'impression que sa surface lisse change constamment de couleur ; par contre, lorsque vous commencez à l'examiner attentivement, vous n'y rien de spécial.~
+@99994 = ~L'anneau de Terra Nova : "La vérité sans fin"
+
+Les avis divergent encore sur tout ce qu'est Terlao. Même les bardes les plus expérimentés n'ont aucune idée de sa nature. La rumeur veut qu'il soit à la fois l'origine de l'Ombreterre et de la surface, la fin du chaos et le début de la désolation, et que quiconque l'atteint connaît immédiatement la "vérité" sur toutes choses. Ainsi, de nombreux chercheurs se sont lancés à sa recherche dans l’ombreterre avec seulement de vagues indices, mais tous sont revenus sans succès, et certains ont même été anéantis à jamais. Indépendamment de la crédibilité de ces affirmations, cet anneau, qui proviendrait de Terlao, possède une magie mystérieuse et inexplicable, et s'il est utilisé correctement, même s'il n'a pas la chance de dévoiler le voile de la vérité, peut toujours être d'une grande utilité.~
+
+@99995 = ~Vous ne pouvez pas utiliser la capacité de téléportation de l'anneau ici.~
+
+//------------------------------- Magasin -------------------------------//
+
+@10001 = ~Boutique des dimensions~
+
+@10013 = ~Hallebarde maléfique~
+@10014 = ~Charogne +6~
+@10015 = ~Cette hallebarde empeste le mal.~
+@10016 = ~Charogne +6
+
+Cette hallebarde diabolique fait partie du "Costume de mort-vivant" créé par le maître-enchanteur Siren.
+
+PARAMÈTRES :
+
+Capacité d'équipement :
+Jet de sauvegarde contre la mort : +5
+
+Capacités de combat :
+11% de chance de drainer 3 niveaux de la cible (sans jet de sauvegarde)
+26% de chance de rendre la cible malade (jet de sauvegarde contre les souffles à -5 pour éviter) : 1 point de dégât subit par seconde pendant 5 rounds.
+
+Capacités de charge :
+Contrôle des morts-vivants trois fois par jour
+
+Dégâts : 1D10+6
+TAC0 : +6
+Type de dégâts : Perforant
+Poids : 15
+Facteur de vitesse : 3
+Type de compétence : hallebarde
+Type : arme à 2 mains
+Force nécessaire : 13
+Non utilisable par : 
+Clerc
+Magicien
+Druide
+Voleur~
+
+@10017 = ~Casque maléfique~
+@10018 = ~Casque d'os~
+@10019 = ~Ce casque a une forme étrange, comme s'il s'agissait du crane d'un dragon.~
+@10020 = ~Crane du Dragon sorcier démoniaque
+
+Le maître-enchanteur Siren a réussi à récupérer le crane d'un Dragon sorcier démoniaque et s'en est servi pour créer un casque. C'est une des parties du "costume de mort-vivant".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+Classe d'armure : +1
+Résistance au froid : +30%
+Bouclier mental
+
+Capacité de charge :
+Cri de la Banshee une fois par jour
+
+Spécial : protège contre les coups critiques
+
+Non utilisable par : 
+Barde
+Magicien
+Druide
+Voleur~
+
+
+@10021 = ~Armure maléfique~
+@10022 = ~La mort qui marche +4~
+@10023 = ~Cette armure ressemble à un cadavre.~
+@10024 = ~La mort qui marche +4
+
+Cette armure est une partie du "costume de mort-vivant" créé par le maître-enchanteur Siren. Elle semble constituée de morceaux de chairs grisâtres retenus ensemble par de l’énergie noire. Celui qui porte cette armure ressemble à un cadavre ambulant et est entouré de flammes froides venues du plan négatif.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+Protection contre le drain de niveau
+Résistance au froid : +50%
+Résistance à la magie : +10%
+Immobilise pour 15 secondes (jet de sauvegarde contre la mort pour éviter) toute créature qui frappe le porteur en mêlée.
+
+Capacité de charge :
+Sort de mort deux fois par jour
+
+Classe d'armure : -1 (-4 contre les armes tranchantes)
+Poids : 50
+Force nécessaire : 12
+Non utilisable par :
+ Barde 
+ Druide
+ Mage
+ Voleur~
+
+@10025 = ~Armure diffusant une douce lumière~
+@10026 = ~Bénédiction de Torm +3~
+@10027 = ~Le simple fait de toucher cette armure vous réchauffe le cœur.~
+@10028 = ~Bénédiction de Torm +3
+
+Il s'avère que le maître enchanteur Siren n'est pas seulement doué pour fabriquer des objets maléfiques, mais qu'il peut aussi faire l'opposé; et cette armure en est un bon exemple.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+Résistance à la magie : +5%
+Jets de sauvegarde : +2
+Protection contre le mal
+Classe d'armure : +2 contre les créatures loyales mauvaises
+Charisme : +1
+Sagesse : +1
+
+Capacités de charge :
+Parole sacrée une fois par jour
+Rayon Divin deux fois par jour
+Magie des vertueux trois fois par jour
+
+Classe d'armure : -2 (-6 contre les armes tranchantes, -5 contre les armes perçantes et les projectiles)
+Poids : 50
+Force nécessaire : 12
+Non utilisable par :
+ Barde 
+ Druide
+ Mage
+ Voleur~
+
+@10029 = ~Bague très ordinaire.~
+@10030 = ~Anneau des excuses~
+@10031 = ~L'air autour de cet anneau semble s'agiter?~
+@10032 = ~Cet anneau est l'œuvre de Karst, le Faiseur d'Espoirs. Au cours d'une de ses folles expériences, il provoqua une explosion d'énergie magique dont son ami archi-liche fut la victime. Le nécromancien s'aperçut qu'il subissait parfois des hiatus lorsqu'il lançait un sort (on dit qu'il fut transformé en écureuil par un hiatus lors d'un combat arcanique avec le demi-dieu de la lumière Tyfon). Pour apaiser la colère de l'archi-liche, Karsr crée cet anneau en guise de cadeau d'excuse.
+
+Capacités d'équipement :
+Protection contre le changement de sexe
+Bouclier entropique : +35 sur le jet pour la table des hiatus
+Permet de mémoriser 6 sorts de niveau 1 supplémentaires
+
+Capacités de charge :
+Rupture hasardeuse de Nahal cinq fois par jour
+
+Uniquement utilisable par :
+ Mage~
+
+//------------------------------- Arène -------------------------------//
+
+@2000 = ~Marilith~
+@2001 = ~Glabrezu~
+@2002 = ~Succube~
+@2003 = ~Cambion d'élite~
+@2004 = ~Cambion~
+@2005 = ~Diantrefosse~
+@2006 = ~Cornugon~
+@2007 = ~Erinyes~
+@2008 = ~Osyluth~
+@2009 = ~Habishai~
+
+@3000 = ~Invocation de Tanar'ris~
+@3001 = ~Invocation de Baatezus~
+@3002 = ~Explosion corporelle~
+
+@4000 = ~Grand maître~
+@4001 = ~Ravageur~
+@4002 = ~Balor~
+
+@1008 = ~Dance sauvage +2~
+@1009 = ~Cette armure est très légère. Le motif qui y est gravé est agréable à regarder.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+Action libre
+Immunité contre les projectiles non-magiques
+
+Classe d'armure : 1
+Poids : 40
+Force nécessaire : 10
+Non utilisable par :
+ Barde 
+ Druide
+ Mage
+ Voleur~
+@1010 = ~Brises~
+@1011 = ~Ces bottes ont l'air si anciennes qu'elles passent aussi inaperçues qu'une brise légère.
+
+PARAMETRES :
+
+Capacités d'équipement :
+
+Double la vitesse de déplacement
+Quand le porteur est touché il crée un Double illusoire pendant 15 secondes. Cet effet ne peut pas être cumulé
+
+Poids : 4~
+@1012 = ~Buzzeur +5~
+@1013 = ~Non seulement ce katana est aussi tranchant qu'un dard d'abeille, mais en plus lorsqu'il est manié il émet un bourdonnement magique qui ébranle les ennemis
+
+PARAMETRES :
+
+Capacité de combat :
+Quand elle frappe, cette épée affecte tous les ennemis dans les 4,5 mètres de rayon : tous ceux qui ratent un jet de sauvegarde contre les sorts à -4 subissent -5 à la chance et à la classe d'armure et 100% de fourvoiement magique pendant un round.
+
+TAC0 : +5
+Dégâts : 1D10 +5, +1D6 points de dégâts magiques
+Type de Dégâts : Tranchant 
+Poids : 2
+Facteur de Vitesse : 0 
+Compétence : Katana
+Type d'arme : à 1 main
+Force nécessaire : 6
+Inutilisable par :
+Druides
+Clercs
+Mages~
+@1014 = ~Nocturne +5~
+@1015 = ~Ce katana émet une légère lumière bleue éthérée, ce qui lui donne un aspect éthéré. Il cherche automatiquement les failles de l'adversaire pour protéger les points faibles de son porteur
+
+PARAMETRES :
+
+Capacités d'équipement :
++1 attaque par round
+Chance : +2
+Chaque round, 34% de chance de créer une peau de pierre sur le porteur quand un ennemi est visible.
+
+TAC0 : +5
+Dégâts : 1D10 +5
+Type de Dégâts : Tranchant 
+Poids : 2
+Facteur de Vitesse : 0 
+Compétence : Katana
+Type d'arme : à 1 main
+Force nécessaire : 6
+Inutilisable par :
+Druides
+Clercs
+Mages~
+@1016 = ~Murmure~
+@1017 = ~Cette amulette est densément gravé de nombreuses runes indéchiffrables.
+
+PARAMETRES :
+
+Capacités d'équipement :
+Immunité contre les sorts qui infligent des dégâts.~

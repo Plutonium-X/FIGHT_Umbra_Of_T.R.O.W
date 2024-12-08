@@ -1,0 +1,7 @@
+Version 2.0
+- Routine pour BG2EE / EET
+- Traduction française
+- Ajout des fonctions GW pour formater les objets au standard EE
+- Correction : l'Anneau des excuses créait un effet qui n'existait pas (#2570 !).
+- Correction : Le contrecoup de l'armure La Mort qui marche portait comme nom une réplique de pnj.
+- Correction : La hallebarde Charogne +6 appliquait un effet de "maladie" n’existant pas.
