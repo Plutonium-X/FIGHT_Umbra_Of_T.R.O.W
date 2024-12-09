@@ -115,7 +115,7 @@ COPY ~UoT\Challenges\TrowMobs\items\trswd02.itm~ ~override~
 	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@1015" END
 COPY ~UoT\Challenges\TrowMobs\items\tramu00.itm~ ~override~
 	SAY NAME2 @1016
-	SAY DESC @10017
+	SAY DESC @1017
 
 COPY ~UoT\Challenges\TrowMobs\spells\trspl28.spl~ ~override/trspl28.spl~
 	SAY NAME1 @3000

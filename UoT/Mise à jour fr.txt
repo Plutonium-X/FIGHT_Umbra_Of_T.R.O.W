@@ -5,3 +5,7 @@ Version 2.0
 - Correction : l'Anneau des excuses créait un effet qui n'existait pas (#2570 !).
 - Correction : Le contrecoup de l'armure La Mort qui marche portait comme nom une réplique de pnj.
 - Correction : La hallebarde Charogne +6 appliquait un effet de "maladie" n’existant pas.
+
+Version 2.1
+- L’amulette du grand maître n'avait pas de description.
+- Les bottes du grand maître ne créaient pas de double illusoire comme prévu.
