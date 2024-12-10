@@ -9,3 +9,4 @@ Version 2.0
 Version 2.1
 - L’amulette du grand maître n'avait pas de description.
 - Les bottes du grand maître ne créaient pas de double illusoire comme prévu.
+- Le grand maître devient plus malin : il crée son simulacre APRES ses contingences.
