@@ -1,5 +1,5 @@
 # Umbra Of T.R.O.W
-Ce mod chinois propose une arène de combat dans laquelle vous pouvez démarrer les combats que vous voulez selon votre demande.
+Ce mod propose une arène de combat dans laquelle vous pouvez démarrer les combats que vous voulez selon votre demande.
 
 Quand vous commencer une partie ou en rechargez une, vous recevez un anneau bleu dans votre inventaire. Cet anneau, en plus de pouvoir lancer Vision véritable une fois par jour, peut vous téléporter dans l'arène.
 
