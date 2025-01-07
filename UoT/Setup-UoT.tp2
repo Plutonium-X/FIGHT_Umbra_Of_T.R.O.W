@@ -1,10 +1,10 @@
 BACKUP ~UoT\backup~
 AUTHOR ~inthel~
  
-LANGUAGE ~Chinese(Simplified)~ ~Chinese(Simplified)~ ~UoT\Languages\Chinese(Simplified)\UT_CHS.tra~
-LANGUAGE ~Francais~ ~French~ ~UoT\Languages\French\UT_CHS.tra~
-LANGUAGE ~Francais pour BG2EE/EET~ ~FrenchEE~ ~UoT\Languages\FrenchEE\UT_CHS.tra~
-LANGUAGE ~English~ ~english~ ~UoT\Languages\english\UT_CHS.tra~
+LANGUAGE ~Simplified Chinese~ ~SChinese~ ~UoT\Languages\SChinese\install.tra~
+LANGUAGE ~Francais~ ~French~ ~UoT\Languages\French\setup.tra~
+LANGUAGE ~Francais pour BG2EE/EET~ ~FrenchEE~ ~UoT\Languages\FrenchEE\install.tra~
+LANGUAGE ~English~ ~english~ ~UoT\Languages\english\install.tra~
 
 BEGIN ~Umbra of T.R.O.W.~
 
@@ -39,7 +39,7 @@ COPY ~UoT\Areas\Hinge\UTHing01.cre~ ~override~
 	SAY NAME2 @99999
 
 COMPILE ~UoT\Compil\UTHing01.d~ 
-USING ~UoT\Languages\Chinese(Simplified)\UTHing01.tra~
+USING ~UoT\Languages\SChinese\UTHing01.tra~
 	  ~UoT\Languages\%s\UTHing01.tra~
 
 //------------------------------- ´«ËÍ½äÖ¸ -------------------------------//
