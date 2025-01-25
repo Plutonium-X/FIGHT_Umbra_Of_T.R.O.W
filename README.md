@@ -5,7 +5,7 @@ Quand vous commencez une partie ou en rechargez une, vous recevez un anneau bleu
 
 Une fois dans l'arène, vous pouvez acheter du matériel (5 objets dignes de la fin de TOB) ou demander à affronter, au choix :
 - Un groupe de Tanar'ris
-- Un groupe de BaatezuS
+- Un groupe de Baatezus
 - Un Balor accompagné de Tanar'ris 
 - Un Écorcheur accompagné de Baatezus (bien boosté, pire que l'Écorcheur de la fin de SOA)
 - Le grand maître. C'est le seul combat qui vous rapporte des drops (5 objets bien cheatés)(et renouvelable à l'envie)
