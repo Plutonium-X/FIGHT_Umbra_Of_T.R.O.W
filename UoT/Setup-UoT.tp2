@@ -1,5 +1,6 @@
 BACKUP ~UoT\backup~
 AUTHOR ~inthel~
+VERSION ~v2.3~
  
 LANGUAGE ~Simplified Chinese~ ~SChinese~ ~UoT\Languages\SChinese\install.tra~
 LANGUAGE ~Francais~ ~French~ ~UoT\Languages\French\setup.tra~

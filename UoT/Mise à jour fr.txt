@@ -12,3 +12,7 @@ Version 2.1
 
 Version 2.2
 - Ajout de la traduction anglaise trouvée dans le BWS (par Nightfarer)
+
+Version 2.3
+- Suppression de la conversion par Iconv qui faisait bugger la langue chinoise dans BG2EE. Merci à shohy pour la pull request.
+- Ajout des strings @9000 et @9001 manquant dans la traduction anglaise.
