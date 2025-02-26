@@ -1,6 +1,6 @@
 BACKUP ~UoT\backup~
 AUTHOR ~inthel~
-VERSION ~v2.3~
+VERSION ~v2.4~
  
 LANGUAGE ~Simplified Chinese~ ~SChinese~ ~UoT\Languages\SChinese\install.tra~
 LANGUAGE ~Francais~ ~French~ ~UoT\Languages\French\setup.tra~
@@ -60,7 +60,8 @@ COPY ~UoT\Areas\Teleport\UTRING0.itm~ ~override~
 	SAY DESC @99994
 	LAF ~GW_ADD_ITEM_TOOLTIPS~ STR_VAR GW_objet = ~UTRING0~ GW_tooltips = ~23357 25633~ END
 
-EXTEND_TOP ~AR3000.bcs~ ~UoT\Areas\Teleport\UTRingExtendScript.baf~
+EXTEND_TOP ~baldur.bcs~ ~UoT\Areas\Teleport\UTRingExtendScript.baf~
+EXTEND_TOP ~baldur25.bcs~ ~UoT\Areas\Teleport\UTRingExtendScript.baf~
 
 //------------------------------- 商店 -------------------------------//
 
