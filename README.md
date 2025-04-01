@@ -15,4 +15,4 @@ L’intérêt de ces combats est uniquement de s’amuser et d'engranger de l'xp
 Les monstres risque de vous surprendre : ils ne sont pas vanilla mais respectent leurs caractéristiques rp : ainsi les plus puissants en invoquent d'autres moins puissants, les Erinyes sont invisibles en plus de charmer chaque round, le Balor est entouré d'un boulier de feu et explose en mourant, etc .... L'installation conjointe de SCS ou Atweak peut transformant ces combat en cauchemars.
 
 -------------
-Si vous ne voulez pas recevoir automatiquement l'anneau lorsque vous commencez une partie ou en rechargez une, la relesae 2.3 propose un changement par shohy : vous recevez l'anneau quand vous arrivez sur la carte de la Tour de Garde.
+Si vous ne voulez pas recevoir automatiquement l'anneau lorsque vous commencez une partie ou en rechargez une, la release 2.3 propose un changement par shohy : vous recevez l'anneau quand vous arrivez sur la carte de la Tour de Garde.
