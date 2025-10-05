@@ -60,8 +60,7 @@ COPY ~UoT\Areas\Teleport\UTRING0.itm~ ~override~
 	SAY DESC @99994
 	LAF ~GW_ADD_ITEM_TOOLTIPS~ STR_VAR GW_objet = ~UTRING0~ GW_tooltips = ~23357 25633~ END
 
-EXTEND_TOP ~baldur.bcs~ ~UoT\Areas\Teleport\UTRingExtendScript.baf~
-EXTEND_TOP ~baldur25.bcs~ ~UoT\Areas\Teleport\UTRingExtendScript.baf~
+EXTEND_TOP ~AR3000.bcs~ ~UoT\Areas\Teleport\UTRingExtendScript.baf~
 
 //------------------------------- 商店 -------------------------------//
 
@@ -219,5 +218,6 @@ COPY ~UoT\Challenges\TrowMobs\creatures\trora01.cre~ ~override/trora01.cre~
 	SAY NAME2 @4002
 
 //------------------------------- 说明 -------------------------------//
+
 
 //AT_INTERACTIVE_EXIT ~notepad UoT\Readme.txt~
