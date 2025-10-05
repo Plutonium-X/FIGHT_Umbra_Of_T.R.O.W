@@ -16,3 +16,10 @@ Version 2.2
 Version 2.3
 - Suppression de la conversion par Iconv qui faisait bugger la langue chinoise dans BG2EE. Merci à shohy pour la pull request.
 - Ajout des strings @9000 et @9001 manquant dans la traduction anglaise.
+
+Version 2.4
+- Suppression d'un changement fait silencieusement par Shohy. On aurait pu en discuter avant.
+
+Version 2.5
+- Le mod ne copie plus un fichiers Stats.ids obsolète. A la place il patche le fichier avec la dernière version de Detectable Spells.
+- Correction par MephistoSatanDevil du script de téléportation qui pouvait parfois créer des soucis.

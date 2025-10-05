@@ -1,6 +1,6 @@
 BACKUP ~UoT\backup~
 AUTHOR ~inthel~
-VERSION ~v2.4~
+VERSION ~v2.5~
  
 LANGUAGE ~Simplified Chinese~ ~SChinese~ ~UoT\Languages\SChinese\install.tra~
 LANGUAGE ~Francais~ ~French~ ~UoT\Languages\French\setup.tra~
@@ -11,6 +11,7 @@ BEGIN ~Umbra of T.R.O.W.~
 
 REQUIRE_FILE ~Data\25Dialog.bif~ ~Please ensure you have the Throne of Bhaal expansion installed, this mod can not run without TOB.~
 
+INCLUDE ~UoT\Compil\ds.tpa~
 INCLUDE ~UoT\Compil\gw_functions.tpa~
 LAM ~GW_READ_COL_TOOLTIP~	
 
@@ -29,7 +30,7 @@ COPY ~UoT\Challenges\TrowMobs\scripts~ ~override~
 COPY ~UoT\Challenges\TrowMobs\spells~ ~override~
 COPY ~UoT\Challenges\TrowMobs\visuals~ ~override~
 
-COPY ~UoT\Identifiers~ ~override~
+//COPY ~UoT\Identifiers~ ~override~
 
 COPY ~UoT\Storages~ ~override~
 
